@@ -12,6 +12,6 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<h1>문선아 사랑해!</h1>
+<h1>서현아 고마워!</h1>
 </body>
 </html>
